@@ -1,0 +1,87 @@
+.menu {
+    width: 50%;
+    margin-left: 260px;
+    margin-right: 100px;
+    padding: 20px;
+    background-image: url(https://images.immediate.co.uk/production/volatile/sites/2/2021/04/Zombie-bbcc653.jpg?quality=90&webp=true&resize=1300,866);
+    height: 150%
+}
+.menu1 {
+    margin-left: 260px;
+    text-align: center;
+    margin-right: -20px;
+    margin-top: -80px;
+    background-color: rgb(3, 181, 181);
+}
+.menu2 {
+  margin-left: 260px;
+  text-align: center;
+  margin-right: -20px;
+  background-color: rgb(255, 40, 112);
+  margin-top: -20px;
+  padding-top: 5px;  
+  margin-bottom : -32px;
+}
+.established {
+    font-style: italic;
+  }
+
+.heading{
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    display:block;
+    padding-top: 20px;
+    font-stretch: 25%;
+    font-weight: 50;
+}
+
+.heading2{
+  font-size: 50px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+  display:block;
+  margin-top: -60px;
+  font-stretch: ultra-condensed;
+  font-weight: 50;
+}
+
+.heading3{
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 10;
+  font-stretch: 500%;
+  color: white;
+  margin-top : -30px;
+  padding-bottom: 20px;
+}
+
+.main{
+  font-size: 15px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: lighter;
+  font-stretch: 500%;
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 5px;
+  font : italic;
+}
+
+.description{
+  font-size: 12px;
+  font : italic;
+  color: white;
+  font-weight: 50;
+  font : italic;
+  margin-top: -10px;
+}
+
+.lastdescription{
+  font-size: 12px;
+  font : italic;
+  color: white;
+  font-weight: 50;
+  font : italic;
+  margin-top: -10px;
+  padding-bottom: 40px;
+}
